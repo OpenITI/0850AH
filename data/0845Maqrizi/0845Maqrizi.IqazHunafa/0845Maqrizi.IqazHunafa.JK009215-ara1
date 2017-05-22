@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_009215
-#NewRec# 000.BookURI	:: NOCODE
-#NewRec# 010.AuthorAKA	:: تقي الدين أحمد بن علي المقريزي
-#NewRec# 010.AuthorNAME	:: تقي الدين أحمد بن علي المقريزي
-#NewRec# 011.AuthorBORN	:: 766هـ
-#NewRec# 011.AuthorDIED	:: 845
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: اتعاظ الحنفا بأخبار الأئمة الفاطميين الخلفا
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: تواريخ البلدان والعوائل :: كتب التاريخ
-#NewRec# 022.BookVOLS	:: NODATA
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: اتعاظ الحنفا
-#NewRec# 030.LibURI	:: JK_009215
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: د. جمال الدين الشيال
-#NewRec# 041.EdNUMBER	:: الثانية
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: وزارة الأوقاف
-#NewRec# 044.EdPLACE	:: مصر
-#NewRec# 045.EdYEAR	:: 1416هـ - 1996م
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_009215
+#META# 000.BookURI	:: NOCODE
+#META# 010.AuthorAKA	:: تقي الدين أحمد بن علي المقريزي
+#META# 010.AuthorNAME	:: تقي الدين أحمد بن علي المقريزي
+#META# 011.AuthorBORN	:: 766هـ
+#META# 011.AuthorDIED	:: 845
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: اتعاظ الحنفا بأخبار الأئمة الفاطميين الخلفا
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: تواريخ البلدان والعوائل :: كتب التاريخ
+#META# 022.BookVOLS	:: NODATA
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: اتعاظ الحنفا
+#META# 030.LibURI	:: JK_009215
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: د. جمال الدين الشيال
+#META# 041.EdNUMBER	:: الثانية
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: وزارة الأوقاف
+#META# 044.EdPLACE	:: مصر
+#META# 045.EdYEAR	:: 1416هـ - 1996م
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 
