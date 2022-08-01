@@ -9,5 +9,6 @@
     * segmentation model: DEFAULT
     * OCR model: arabPers-WithDiffTypefaces.mlmodel
     * raw-OCR needed review - MAB
+    * MAB - made corrections where spotted and added missing text (a few lines were missing from the transcription), removed editorial material including footnotes, added structural annotation including for poetry, pagination is correct. In typeface following can be easily confused : yas and bas, fas and qafs, tas and bas - transcription contains many mistranscriptions of these letters - e.g. a ya in the place of a ba (I have tried to correct this where easy and common patterns can be seen, but a search on this text might take this into account)
 90#VERS#DATE#####: 2021-02-23
 90#VERS#ISSUES###:
