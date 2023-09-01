@@ -6,10 +6,13 @@
 80#VERS#LINKS####: https://archive.org/details/MAL05540
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Good correspondence overall; no obvious errors. The
-    autotagging was erroneous in many places. Occasionally pages are out by
-    a couple of lines; this is usually when a paragraph runs onto the next
-    page by only a couple of lines, and it has been kept together on one
-    page.
-   NOTE OF THE REVIEWER (HRH): Some changes made in the heads and their levelling.
+        autotagging was erroneous in many places. Occasionally pages are out by
+        a couple of lines; this is usually when a paragraph runs onto the next
+        page by only a couple of lines, and it has been kept together on one
+        page.
+       NOTE OF THE REVIEWER (HRH): Some changes made in the heads and their levelling.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-08-14
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

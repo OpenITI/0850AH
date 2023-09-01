@@ -6,11 +6,14 @@
 80#VERS#LINKS####: http://www.almeshkat.net/book/13231
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Good correspondence, no obvious errors. Occasionally
-    automatically generated (?) titles separated the preposition bi- from
-    its object.
-    NOTE OF THE REVIEWER (HRH): PARATEXT added. I corrected the levelling of the
-    headers based on what I can understand from the titles. However, levelling the
-    headers is difficult in this text. Headers must be added by the specialist who
-    will read the text closely.
+        automatically generated (?) titles separated the preposition bi- from
+        its object.
+        NOTE OF THE REVIEWER (HRH): PARATEXT added. I corrected the levelling of the
+        headers based on what I can understand from the titles. However, levelling the
+        headers is difficult in this text. Headers must be added by the specialist who
+        will read the text closely.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-08-12
-90#VERS#ISSUES###: HTML_TAGS
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

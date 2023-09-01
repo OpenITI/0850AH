@@ -5,9 +5,12 @@
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: NOT_FOUND
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
+        use consistently)
 90#VERS#COMMENT##: The original text contained additional material from
-    PageV02P359 onwards,
-    which was split off by PV into separate text files.
+        PageV02P359 onwards,
+        which was split off by PV into separate text files.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

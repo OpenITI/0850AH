@@ -4,9 +4,12 @@
 80#VERS#BASED####: https://worldcat.org/en/title/4771435817
 80#VERS#COLLATED#: https://worldcat.org/en/title/793601442
 80#VERS#LINKS####: https://archive.org/details/mo9affa-kabir-00/mo9affa-
-    kabir-00/mode/1up
+        kabir-00/mode/1up
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The digital version is a newer edition. Page numbers (and
-    some of the name entries) are different, and it has more biographies.
+        some of the name entries) are different, and it has more biographies.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2022-11-26
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

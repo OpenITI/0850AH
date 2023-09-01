@@ -6,10 +6,13 @@
 80#VERS#LINKS####: https://archive.org/details/DURALMONTAKHEB/1/
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: Text provided by the ERC Project
-    "The Mamlukisation of the Mamluk Sultanate"
-    (MMS, PI: Jo Van Steenbergen).
-    OCR: Calfa
-    Text processed by Manhal Makhoul MMS-II.
-    HRH: The text has no hashtag as paragraph marker.
+        "The Mamlukisation of the Mamluk Sultanate"
+        (MMS, PI: Jo Van Steenbergen).
+        OCR: Calfa
+        Text processed by Manhal Makhoul MMS-II.
+        HRH: The text has no hashtag as paragraph marker.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2022-12-05
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
