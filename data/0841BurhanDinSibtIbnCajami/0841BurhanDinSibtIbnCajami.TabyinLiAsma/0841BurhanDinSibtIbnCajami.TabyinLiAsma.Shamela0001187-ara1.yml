@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 26048
-00#VERS#LENGTH###: 6435
+00#VERS#CLENGTH##: 18613
+00#VERS#LENGTH###: 4746
 00#VERS#URI######: 0841BurhanDinSibtIbnCajami.TabyinLiAsma.Shamela0001187-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770294780
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770294780
@@ -15,6 +15,8 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0850AH/pre-clean/data/0841BurhanDinSibtIbnCajami/0841BurhanDinSibtIbnCajami.TabyinLiAsma/0841BurhanDinSibtIbnCajami.TabyinLiAsma.Shamela0001187-ara1.completed
+    https://raw.githubusercontent.com/OpenITI/0850AH/pre-
+    clean/data/0841BurhanDinSibtIbnCajami/0841BurhanDinSibtIbnCajami.TabyinLiAsma/0841BurhanDinSibtIbnCajami.TabyinLiAsma.Shamela0001187-ara1.completed
 90#VERS#DATE#####: 2020-09-08
-90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS, PRIMARY_VERSION,
+    CLEANED_VERSION
