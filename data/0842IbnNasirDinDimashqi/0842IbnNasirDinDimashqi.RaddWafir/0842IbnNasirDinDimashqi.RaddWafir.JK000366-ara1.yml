@@ -53,10 +53,5 @@
     version has “al-ṭabʿŧ al-ūlá” on the cover page. Unfortunately, 1973 edition is
     not accessible online and I can’t verify this (see
     http://www.worldcat.org/oclc/4771213466).
-    All paratextual elements
-    (introductions, footnotes, indices, ...)
-    removed by HRH and MGR (OpenITI Clean operation, 2023)
-    Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0850AH/pre-clean/data/0842IbnNasirDinDimashqi/0842IbnNasirDinDimashqi.RaddWafir/0842IbnNasirDinDimashqi.RaddWafir.JK000366-ara1.mARkdown
 90#VERS#DATE#####: 2020-04-02
-90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
