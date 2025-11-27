@@ -1,10 +1,10 @@
-00#VERS#CLENGTH##: 322470
-00#VERS#LENGTH###: 78342
+00#VERS#CLENGTH##: 347584
+00#VERS#LENGTH###: 87050
 00#VERS#URI######: 0850ShihabDinIbshihi.TadhkiratCarifin.EScr20120309-ara1
-80#VERS#BASED####:
-80#VERS#COLLATED#:
+80#VERS#BASED####: 
+80#VERS#COLLATED#: 
 80#VERS#LINKS####: https://archive.org/details/raqaeeq/tabshihi
-90#VERS#ANNOTATOR:
+90#VERS#ANNOTATOR: 
 90#VERS#COMMENT##: OCRed through eScriptorium; arabPersPrBigMixed_best; no
     worldcat entry found.
     All paratextual elements
@@ -13,5 +13,5 @@
     Link to the text file as it was before it was cleaned:
     https://raw.githubusercontent.com/OpenITI/0850AH/pre-
     clean/data/0850ShihabDinIbshihi/0850ShihabDinIbshihi.TadhkiratCarifin/0850ShihabDinIbshihi.TadhkiratCarifin.EScr20120309-ara1
-90#VERS#DATE#####:
+90#VERS#DATE#####: 
 90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION
